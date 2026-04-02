@@ -89,7 +89,7 @@ This project aims to automatically identify **fake job postings** and help users
 
 ## 👨‍💻 Author
 
-* Your Name
+ PRADEEP RATURI.
 
 ---
 
